@@ -1,0 +1,6 @@
+(1) pair, array, vector , iterator, heap,stack,queu
+(1) List: When size is not fixed and we have to add elements frequently.It can accept mixed type elements.
+(2) Numpy array: When we have to do mathematical computation. It can contains only single types of data.
+(3) Set: Unordered unique values, having hasing techniques.
+(4) Stack: python list or deque.
+(5) Queue: Python deque with popleft
